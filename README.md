@@ -18,4 +18,4 @@ roblox script developer, I have developed several maps, including:**
 8 - *Arabic maps*
 
 
-**My TG :** https://t.me/YHUB_16
+**My Telegram Channel :** https://t.me/YHUB_16
