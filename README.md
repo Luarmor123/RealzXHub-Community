@@ -1,4 +1,4 @@
-# 🎮 DeX - Professional Roblox Script Developer
+# 🎮 DeX # 🎮 DeX - Professional Roblox Script Developer
 
 <div align="center">
   
@@ -6,9 +6,9 @@
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YHUB_16)
 
-**Experienced Roblox Script Developer & Map Creator**
+**Experienced Roblox Script Developer & Exploiting**
   
-*Crafting immersive gaming experiences through innovative scripting and map design*
+*Crafting immersive gaming experiences through innovative scripting and Exploiting design*
 
 </div>
 
@@ -16,14 +16,15 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox script developer specializing in creating engaging maps and game mechanics. With expertise in Lua scripting and game design, I've contributed to several popular Roblox experiences that have entertained thousands of players worldwide.
+Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox script developer specializing in Exploiting and game mechanics. With expertise in Lua scripting and game design, I've contributed to several popular Roblox experiences that have entertained thousands of players worldwide, I also work in the field of website development and other fields.
 
 ### 🌟 What I Do
 - **Script Development**: Advanced Lua scripting for Roblox games
-- **Map Creation**: Custom map design and development
+- **Exploiting**: Developer of exploit tools to detect and develop Roblox vulnerabilities
 - **Game Mechanics**: Implementing complex gameplay systems
 - **UI/UX Design**: Creating intuitive user interfaces
 - **Performance Optimization**: Ensuring smooth gameplay experiences
+- **Websites**: Professional web developer
 
 ---
 
@@ -68,7 +69,7 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
 
 ### **Specializations**
 - 🎮 Game Mechanics Design
-- 🗺️ Map Creation & Level Design
+- 🗺️ Exploiting
 - 🔧 Script Optimization
 - 🎨 UI/UX Implementation
 - 🌐 Localization (Arabic/English)
@@ -114,6 +115,7 @@ I'm always open to new opportunities and collaborations in Roblox development. W
 
 - 🔥 Developing innovative gameplay mechanics
 - 🌟 Creating immersive Arabic gaming experiences
+- 💀 Exploiting
 - 🚀 Exploring advanced Roblox Studio features
 - 📚 Sharing knowledge with the developer community
 
@@ -151,6 +153,6 @@ end
 
 ---
 
-**© 2024 DeX - Professional Roblox Developer**
+**© 2025 DeX - Professional Roblox Developer**
 
 </div>
