@@ -130,7 +130,7 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
 ### 📊 **Profile Views & Followers**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Luarmor?style=for-the-badge&color=blue" alt="Followers"/>
 </p>
 
 ### 🏆 **Achievements**
