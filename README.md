@@ -1,4 +1,4 @@
-# DeX - Professional Roblox Script Developer
+# DeX - Owner and developer of YHUB
 
 <div align="center">
   
@@ -56,7 +56,11 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
 
 ### **Programming Languages**
 ![Lua](https://img.shields.io/badge/Lua-Expert-2C2D72?style=flat-square&logo=lua)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5)
 
 ### **Roblox Development**
 - **Roblox Studio** - Advanced proficiency
@@ -69,10 +73,11 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
 
 ### **Specializations**
 - 🎮 Game Mechanics Design
-- 🗺️ Exploiting
+- 🗺️ Exploiting & Vulnerability Research
 - 🔧 Script Optimization
 - 🎨 UI/UX Implementation
 - 🌐 Localization (Arabic/English)
+- 💻 Full-Stack Web Development
 
 ---
 
@@ -115,7 +120,7 @@ I'm always open to new opportunities and collaborations in Roblox development. W
 
 - 🔥 Developing innovative gameplay mechanics
 - 🌟 Creating immersive Arabic gaming experiences
-- 💀 Exploiting
+- 💀 Exploiting & Security Research
 - 🚀 Exploring advanced Roblox Studio features
 - 📚 Sharing knowledge with the developer community
 
