@@ -119,10 +119,10 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
   <a href="https://t.me/YHUB_16">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Soon@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://discord.gg/yourdiscord">
+  <a href="https://discord.gg/tw7dcFGw">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
