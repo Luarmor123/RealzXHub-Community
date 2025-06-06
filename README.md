@@ -263,8 +263,7 @@ class ExploitDetector:
 
 *⭐ Don't forget to star my repositories if you find them helpful!*
 
-### 🎯 **Quick Stats**
-![](https://hit.yhype.me/github/profile?user_id=178715176)
+
 
 ---
 
