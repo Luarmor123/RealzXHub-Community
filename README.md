@@ -1,4 +1,4 @@
-# 🎮 DeX # 🎮 DeX - Professional Roblox Script Developer
+# DeX - Professional Roblox Script Developer
 
 <div align="center">
   
