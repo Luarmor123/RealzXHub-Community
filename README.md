@@ -1,4 +1,4 @@
-# 🎮 DeX
+# DeX - Owner and developer of YHUB
 
 <div align="center">
   
@@ -92,19 +92,19 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
 <div align="center">
 
 ### 🔥 **Contribution Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Luarmor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1" alt="GitHub Stats" />
 
 ### 💻 **Programming Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luarmor&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1" alt="Top Languages" />
 
 ### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Luarmor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 ### 📈 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luarmor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" />
 
 ### ⚡ **GitHub Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luarmor&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
 
 </div>
 
