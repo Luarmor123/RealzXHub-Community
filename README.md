@@ -1,10 +1,10 @@
-# DeX - Owner and developer of YHUB
+# DeX - Owner and developer of RealzX
 
 <div align="center">
   
 [![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YHUB_16)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RealzXHub_17)
 
 **Experienced Roblox Script Developer & Exploiting**
   
@@ -116,7 +116,7 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
 
 ### 📱 **Social Links**
 <p align="center">
-  <a href="https://t.me/YHUB_16">
+  <a href="https://t.me/RealzXHub_17">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:yhubcommunity@gmail.com">
@@ -141,7 +141,7 @@ Welcome to my GitHub profile! I'm **DeX**, a passionate and experienced Roblox s
 </p>
 
 ### 📱 **Telegram Channel**
-[![Telegram Channel](https://img.shields.io/badge/YHUB__16-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/YHUB_16)
+[![Telegram Channel](https://img.shields.io/badge/RealzXHub__17-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/RealzXHub_17)
 
 *Stay updated with my latest projects and Roblox development tips!*
 
