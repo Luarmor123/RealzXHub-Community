@@ -199,7 +199,7 @@ Complete development toolkit for aspiring Roblox developers, including templates
   <a href="mailto:realzxhubcommunity@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://discord.gg/tw7dcFGw">
+  <a href="https://discord.gg/BS4Vrk5g5z">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
