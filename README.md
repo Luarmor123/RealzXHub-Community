@@ -226,9 +226,9 @@ Complete development toolkit for aspiring Roblox developers, including templates
 | Platform | Contact |
 |:---:|:---:|
 | 📱 **Telegram** | [@RealzXHub_17](https://t.me/RealzXHub_17) |
-| 💬 **Discord** | RealzXTeam#0001 |
-| 📧 **Email** | contact@realzxteam.dev |
-| 🌐 **Website** | [www.realzxteam.dev](https://realzxteam.dev) |
+| 💬 **Discord** | https://discord.gg/BS4Vrk5g5z |
+| 📧 **Email** | contact@realzxcommunity@gmail.com |
+| 🌐 **Website** | [www.realzxteam.dev](https://realzxscripts.vercel.app/) |
 
 </div>
 
@@ -361,7 +361,7 @@ class ExploitDetector:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=400&lines=Always+learning%2C+always+coding;Building+the+future+of+gaming" alt="Footer" />
 
-*© 2024 RealzXTeam. Crafting digital excellence, one project at a time.*
+*© 2025 RealzXTeam. Crafting digital excellence, one project at a time.*
 
 </div>
 
