@@ -225,10 +225,10 @@ Complete development toolkit for aspiring Roblox developers, including templates
 
 | Platform | Contact |
 |:---:|:---:|
-| 📱 **Telegram** | [@RealzXHub_17](https://t.me/RealzXHub_17) |
-| 💬 **Discord** | https://discord.gg/BS4Vrk5g5z |
+| 📱 **Telegram** | [@RealzXHub_TeleCommunity](https://t.me/RealzXHub_17) |
+| 💬 **Discord** | [@RealzXHub_DiscCommunity](https://discord.gg/BS4Vrk5g5z) |
 | 📧 **Email** | contact@realzxhubcommunity@gmail.com |
-| 🌐 **Website** | [www.realzxteam.dev](https://realzxscripts.vercel.app/) |
+| 🌐 **Website** | [www.realzxhub.dev](https://realzxscripts.vercel.app/) |
 
 </div>
 
@@ -351,7 +351,7 @@ class ExploitDetector:
 **Contact RealzXTeam today and let's build something extraordinary together!**
 
 [![Get Started](https://img.shields.io/badge/Get_Started-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://t.me/RealzXHub_17)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealzXTeam)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luarmor123)
 
 ---
 
