@@ -227,7 +227,7 @@ Complete development toolkit for aspiring Roblox developers, including templates
 |:---:|:---:|
 | 📱 **Telegram** | [@RealzXHub_17](https://t.me/RealzXHub_17) |
 | 💬 **Discord** | https://discord.gg/BS4Vrk5g5z |
-| 📧 **Email** | contact@realzxcommunity@gmail.com |
+| 📧 **Email** | contact@realzxhubcommunity@gmail.com |
 | 🌐 **Website** | [www.realzxteam.dev](https://realzxscripts.vercel.app/) |
 
 </div>
